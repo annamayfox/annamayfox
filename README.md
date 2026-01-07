@@ -1,5 +1,7 @@
 ## Hello World 👋
-I'm currently learning quantum mechanics
+- :computer: I'm currently learning quantum mechanics
+- :test_tube: I'm interested in inorganic chemistry
+- 🤔 I'm very new to GitHub!
 <!--
 **annamayfox/annamayfox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
